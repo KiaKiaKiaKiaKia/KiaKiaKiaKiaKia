@@ -1,16 +1,23 @@
-## Hi there 👋
+## Welcome!
 
-<!--
-**KiaKiaKiaKiaKia/KiaKiaKiaKiaKia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Zara (Kia is my nickname) and I have just graduated 
+with a Bachelors in CS.
 
-Here are some ideas to get you started:
+I love to solve challenging puzzles and learn as much as I can
+about technology!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am comfortable coding in Python and am getting familiar with
+JavaScript. Though my current projects are mostly class assignments
+I have lots of ideas for projects I want to build!
+
+I am also very comfortable with the entire software development 
+cycle, and often use Figma or other such tools to plan and 
+design projects. Currently I am aiming to improve my design 
+abilities to be more interesting and enhance user experience.
+
+Outside of coding my main hobbies are:
+- Video games
+- Digital art
+- DnD
+- Messing around with old tech (such as old cameras, or modding
+  my childhood wii and DS!)
