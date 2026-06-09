@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Zara (Kia is my nickname) and I have just graduated with a Bachelors in CS.
+Hello! My name is Zara and I have just graduated with a Bachelors in CS.
 
 I love to solve challenging puzzles and learn as much as I can about technology!
 
@@ -9,6 +9,8 @@ Though my current projects are mostly class assignments I have lots of ideas for
 
 I am also very comfortable with the entire software development cycle, and often use Figma or other such tools to plan and design projects. 
 Currently I am aiming to improve my design abilities to be more interesting and enhance user experience.
+
+## Fun facts!
 
 Outside of coding my main hobbies are:
 - Video games (Zelda and Final Fantasy are two of my favourite franchises!)
