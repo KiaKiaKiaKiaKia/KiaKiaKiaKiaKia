@@ -17,3 +17,7 @@ Outside of coding my main hobbies are:
 - Digital art (I planned on becoming an illustrator as a child)
 - DnD (I play weekly with friends!)
 - Messing around with old tech (such as old digicams and camcorders, or modding my childhood wii and DS!)
+
+## Contact!
+
+You can reach me at my email: zarakeyani@gmail.com
