@@ -1,6 +1,6 @@
 ## Welcome!
 
-Hello! My name is Zara and I have just graduated with a Bachelors in CS.
+Hello! My name is Zara and I am waiting to graduate with a Bachelors in CS.
 
 I love to solve challenging puzzles and learn as much as I can about technology!
 
