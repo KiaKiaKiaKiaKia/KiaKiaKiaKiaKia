@@ -1,6 +1,6 @@
 ## Welcome!
 
-Hello! My name is Zara and I am waiting to graduate with a Bachelors in CS.
+Hello! My name is Zara and I have just graduated uni with a CS Bachelors degree.
 
 I love to solve challenging puzzles and learn as much as I can about technology!
 
@@ -13,8 +13,10 @@ Currently I am aiming to improve my design abilities to be more interesting and 
 ## Fun facts!
 
 Outside of coding my main hobbies are:
+- Messing around with old tech (such as old digicams and camcorders, or modding my childhood wii and DS!)
+- Reading (R.A. Salvatore is currenty my favourite author)
 - Video games (Zelda and Final Fantasy are two of my favourite franchises!)
 - Digital art (I planned on becoming an illustrator as a child)
 - DnD (I play weekly with friends!)
-- Messing around with old tech (such as old digicams and camcorders, or modding my childhood wii and DS!)
+
 
