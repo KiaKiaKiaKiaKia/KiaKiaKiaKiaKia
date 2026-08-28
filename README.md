@@ -4,7 +4,7 @@ Hello! My name is Zara and I have just graduated uni with a CS Bachelors degree.
 
 I love to solve challenging puzzles and learn as much as I can about technology!
 
-I am comfortable coding in Python and am getting familiar with JavaScript. 
+Languages I use are mostly Python and JavaScript, both of which I'm always trying to improve upon.
 Though my current projects are mostly class assignments I have lots of ideas for projects I want to build!
 
 I am also very comfortable with the entire software development cycle, and often use Figma or other such tools to plan and design projects. 
