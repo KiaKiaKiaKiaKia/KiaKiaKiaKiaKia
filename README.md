@@ -8,15 +8,16 @@ Languages I use are mostly Python and JavaScript, both of which I'm always tryin
 Though my current projects are mostly class assignments I have lots of ideas for projects I want to build!
 
 I am also very comfortable with the entire software development cycle, and often use Figma or other such tools to plan and design projects. 
-Currently I am aiming to improve my design abilities to be more interesting and enhance user experience.
+
+Currently I am aiming to improve my backend skills with python.
 
 ## Fun facts!
 
 Outside of coding my main hobbies are:
 - Messing around with old tech (such as old digicams and camcorders, or modding my childhood wii and DS!)
-- Reading (R.A. Salvatore is currenty my favourite author)
+- Reading (R.A. Salvatore is my favourite author)
 - Video games (Zelda and Final Fantasy are two of my favourite franchises!)
-- Digital art (I planned on becoming an illustrator as a child)
+- Art and illustration (If I weren't in tech I'd probably want to be an artist)
 - DnD (I play weekly with friends!)
 
 
